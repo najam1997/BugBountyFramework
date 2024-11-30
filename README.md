@@ -14,3 +14,5 @@ This repository contains references to framework to find Owasp Top 10 vulnerabil
 ### https://blog.ankursundara.com/cookie-bugs/
 ### https://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html
 ### https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes
+### https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes
+### https://danaepp.com/automate-your-api-hacking-with-autorize
