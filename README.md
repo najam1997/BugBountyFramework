@@ -16,3 +16,4 @@ This repository contains references to framework to find Owasp Top 10 vulnerabil
 ### https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes
 ### https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes
 ### https://danaepp.com/automate-your-api-hacking-with-autorize
+### https://danaepp.com/the-api-hackers-guide-to-payload-injection-with-postman
