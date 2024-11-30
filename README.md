@@ -12,3 +12,4 @@ This repository contains references to framework to find Owasp Top 10 vulnerabil
 ### https://danaepp.com/a-step-by-step-guide-to-writing-extensions-for-api-pentesting-in-burpsuite
 ### https://danaepp.com/how-to-extract-artifacts-from-openapi-docs-to-help-attack-apis
 ### https://blog.ankursundara.com/cookie-bugs/
+### https://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html
