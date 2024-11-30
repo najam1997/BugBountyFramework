@@ -10,3 +10,4 @@ This repository contains references to framework to find Owasp Top 10 vulnerabil
 📝: 
 ### https://www.hackthebox.com/blog/aws-pentesting-guide
 ### https://danaepp.com/a-step-by-step-guide-to-writing-extensions-for-api-pentesting-in-burpsuite
+### https://danaepp.com/how-to-extract-artifacts-from-openapi-docs-to-help-attack-apis
