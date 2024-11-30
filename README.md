@@ -8,3 +8,4 @@ This repository contains references to framework to find Owasp Top 10 vulnerabil
 ### Subdomains: 
 ### [Enumeration]()
 📝: 
+### https://www.hackthebox.com/blog/aws-pentesting-guide
